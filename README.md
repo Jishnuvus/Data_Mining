@@ -18,3 +18,8 @@ Bloodhound: This class contains images of Bloodhound dogs.
 
 
 ![image](image1.png)
+![image](image2.png)
+![image](RGBHistogram.png)
+![image](Histogram.png)
+![image](image5.png)
+![image](image6.png)
